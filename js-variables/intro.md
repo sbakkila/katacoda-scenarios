@@ -1,1 +1,1 @@
-Look through the code in index.js. I bet you'll see some problems right away! In this scenario, we will fix the bugs in this code step-by-step, and also refactor the code to use `let` and `const` instead of `var`, so that we can avoid introducing similar bugs in the future!
+In this scenario, we will fix the variable declaration and scope related bugs, and also refactor the code to use `let` and `const` instead of `var`, so that we can avoid introducing similar bugs in the future!

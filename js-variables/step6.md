@@ -1,0 +1,1 @@
+Great work! Now, let's go ahead and refactor the combinedList variable declaration to use `const` instead of `var`, since we won't need to reassign this variable.
