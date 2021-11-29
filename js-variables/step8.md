@@ -1,1 +1,0 @@
-If you're having trouble spotting the bug, try using `console.log` to log the value of `i` within the second `for loop`.

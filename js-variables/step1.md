@@ -1,6 +1,8 @@
-Look through the code in `index.js`{{open}}. You will probably notice a few problems right away -- but lets run the code and see what error messages you get before jumping in to fix them! 
+Look through the code in `index.js`{{open}}. You will probably notice a few problems right away -- but let's run the code and see what error messages you get before jumping in to fix them! 
 
-Go ahead and run the code by typing `node index.js`{{copy}} into the terminal and press enter. You should get an error message -- don't worry, we will fix each error, step by step.
+Getting used to reading and interpreting common error message is a key skill, and it will also help you understand the advantages of using `let` and `const` instead of `var`. In this scenario, you'll be asked to run the code and understand the error message before jumping in to fix the bug.
+
+Run the code by typing `node index.js`{{copy}} into the terminal and press enter.
 
 >>Q1: What error did you get? <<
 ( ) SyntaxError

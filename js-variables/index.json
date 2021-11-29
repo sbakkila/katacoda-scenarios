@@ -2,7 +2,7 @@
   "title": "Var, Let, and Const",
   "description": "In this scenario, you will refactor a codebase to use let and const instead of only using var.",
   "difficulty": "Intermediate",
-  "time": "45 minutes",
+  "time": "15 minutes",
   "details": {
     "steps": [
       {

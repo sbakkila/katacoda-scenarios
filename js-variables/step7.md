@@ -1,5 +1,10 @@
-Run the code by pressing `node index.js` and pressing enter once again.
+There are two issues happening here:
+- The second `for-loop` isn't initialized with a starting value.
+- Because we're using the same count variable, and variables declared with `var` aren't block scoped, the second for loop is actually starting with the value 6, which triggers the stopping condition for both loops.
 
-We've fixed all of the error messages! Hooray! But if you look at the output, you'll see that our animals are being left out. The array that's supposed to contain both plants and animals only has the planbts.
+Now that you've spotted the problem, let's fix it. 
 
-Look through the code and see if you can identify what's going wrong.
+- Change the variable declaration for both `for loop` counters to use `let`, to avoid namespace conflicts via block scoping.
+- Assign the count variable in the second `for loop` to start at 0.
+
+Run the program again with `node index.js`{{copy}}. You should now see all of the plants and 

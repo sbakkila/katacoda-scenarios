@@ -1,3 +1,7 @@
-Run your code once again by typing `node index.js` in the terminal again and hitting enter.
+Run your code once again by typing `node index.js`{{copy}} in the terminal again and hitting enter.
 
-What error message do you get?
+>>Q3: What error did you get? <<
+( ) SyntaxError: Unexpected token '{'
+( ) TypeError: Cannot read property 'push' of undefined
+( ) InternalError: Too many switch cases
+(*) ReferenceError: combinedList is not defined

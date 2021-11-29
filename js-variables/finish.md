@@ -1,0 +1,1 @@
+Congratulations! You have now used your new knowledge of the `let` and `const` keywords to fix some common bugs that appear with the legacy `var` keyword.
