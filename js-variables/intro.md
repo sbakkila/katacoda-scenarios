@@ -1,1 +1,1 @@
-In this scenario, we will fix the variable declaration and scope related bugs, and also refactor the code to use `let` and `const` instead of `var`, so that we can avoid introducing similar bugs in the future!
+In this scenario, you will fix the variable declaration and scope related bugs in a short program that combines arrays of plants and animals. While doing this, you will also refactor the code to use `let` and `const` instead of `var`, so that you can prevent similar bugs in the future!
