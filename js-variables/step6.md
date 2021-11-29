@@ -4,6 +4,8 @@ Run the code by pressing `node index.js`{{copy}} and pressing enter once again.
 
 We've fixed all of the error messages! Hooray! But if you look at the output in your terminal, you'll see that our animals are being left out. The array that's supposed to contain both plants and animals only has the plants.
 
+Read through the code to figure out why this is happening.
+
 >>Q4: Why is the function only returning the plants? <<
 ( ) We need to use a nested `for loop`
 ( ) The `for loop` has an incorrect stopping condition

@@ -5,6 +5,8 @@ There are two issues happening here:
 Now that you've spotted the problem, let's fix it. 
 
 - Change the variable declaration for both `for loop` counters to use `let`, to avoid namespace conflicts via block scoping.
-- Assign the count variable in the second `for loop` to start at 0.
+- Assign the count variable declared in the second `for loop` to start at 0.
 
-Run the program again with `node index.js`{{copy}}. You should now see all of the plants and 
+Run the program again with `node index.js`{{copy}}. You should now see the array with all of the plants and animals getting logged correctly!
+
+If you're curious, you can try logging the variable `i` in-between the two for loops. You should get an error that indicates that this variable is not in-scope outside of the for loop blocks, now that we're using `let`.
