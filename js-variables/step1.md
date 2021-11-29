@@ -1,0 +1,1 @@
+Go ahead and run the code by typing `node index.js` into the terminal and pressing enter.
